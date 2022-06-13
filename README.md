@@ -17,3 +17,7 @@ npm start
 ## Deployment:
 
 Give it a try [here](https://trannham.github.io/memory-card-game/)
+
+## Demo:
+
+![](demo/screenshot.png)
