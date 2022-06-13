@@ -16,4 +16,4 @@ npm start
 
 ## Deployment:
 
-Check it out [here]()
+Give it a try [here]()
